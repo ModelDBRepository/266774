@@ -1,0 +1,9 @@
+March 18, 2021: Initial code upload
+
+May 23, 2022: Errors in uploaded Markovian code corrected:
+		*Erroneous bias in weight initialization removed
+		*Feed-forward threshold set to 30 Hz
+		*Feed-forward learning parameters updated (see Supplementary Table 1)
+		*Supplementary Tables 1 and 2 updated to match implementation
+
+Please see Supplementary Tables 1 and 2 for more details, along with the readme files in each folder.
